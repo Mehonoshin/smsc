@@ -6,6 +6,6 @@ Gem::Specification.new do |s|
   s.description = "Allows to get incoming sms list"
   s.authors     = ["Stanislav Mekhonoshin"]
   s.email       = 'ejabberd@gmail.com'
-  s.files       = ["lib/epayments/exception.rb"]
+  s.files       = ["lib/smsc/exception.rb"]
   s.homepage    = 'https://github.com/Mehonoshin/smsc'
 end
