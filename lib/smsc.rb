@@ -1,4 +1,4 @@
-class SmsApi
+class Smsc
   API_URL = "smsc.ru"
   API_PATH = "/sys/get.php"
   API_URL_ACTIONS = {
