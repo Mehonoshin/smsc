@@ -1,0 +1,1 @@
+class SmscException < Exception; end
